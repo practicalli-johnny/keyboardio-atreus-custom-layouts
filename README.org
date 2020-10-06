@@ -1,0 +1,49 @@
+* Keyboard.io Atreus custom keyboard layout
+  The [[https://shop.keyboard.io/pages/atreus][Atreus]] is a compact and highly portable mechanical keyboard from Keyboard.io that is fun to use.
+
+  This repository contains 6 layers of keyboard layout, with 0 being the default layer.
+
+  Layouts were defined with [[https://github.com/keyboardio/Chrysalis][Keyboard.io Chrysalis graphical configurator]]
+
+  - Layer 0: qwerty alphabetic keys with common symbols
+  - Layer 1: numbers, arrow keys and parens
+  - Layer 2: function keys, page up/down home end, media keys
+  - Layer 3: parens
+  - Layer 4: to be defined
+  - Layer 5: number pad and symbols (original layer 1)
+  - Layer 6: arrow, function and media keys (original layer 2)
+
+** Layer 0
+   qwerty alphabetic keys with common symbols
+
+  [[keyboardio-atreus-custom-layout-layer-0.png]]
+
+** Layer 1
+   numbers, arrow keys and parens
+
+  [[keyboardio-atreus-custom-layout-layer-1.png]]
+
+** Layer 2
+   function keys, page up/down home end, media keys
+
+  [[keyboardio-atreus-custom-layout-layer-2.png]]
+
+** Layer 3
+   parens
+
+  [[keyboardio-atreus-custom-layout-layer-3.png]]
+
+** Layer 4
+   to be defined
+
+  [[keyboardio-atreus-custom-layout-layer-4.png]]
+
+** Layer 5
+   number pad and symbols (original layer 1)
+
+  [[keyboardio-atreus-custom-layout-layer-5.png]]
+
+** Layer 6
+   arrow, function and media keys (original layer 2)
+
+  [[keyboardio-atreus-custom-layout-layer-6.png]]

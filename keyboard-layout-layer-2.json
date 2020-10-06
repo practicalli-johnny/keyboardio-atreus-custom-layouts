@@ -1,0 +1,232 @@
+{
+  "keymap": [
+    {
+      "keyCode": 58,
+      "label": "F1"
+    },
+    {
+      "keyCode": 59,
+      "label": "F2"
+    },
+    {
+      "keyCode": 60,
+      "label": "F3"
+    },
+    {
+      "keyCode": 61,
+      "label": "F4"
+    },
+    {
+      "keyCode": 62,
+      "label": "F5"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 63,
+      "label": "F6"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 66,
+      "label": "F9"
+    },
+    {
+      "keyCode": 67,
+      "label": "F10"
+    },
+    {
+      "keyCode": 53,
+      "label": "`"
+    },
+    {
+      "keyCode": 74,
+      "label": "Home"
+    },
+    {
+      "keyCode": 75,
+      "label": "PgUp",
+      "verbose": "Page Up"
+    },
+    {
+      "keyCode": 78,
+      "label": "PgDn",
+      "verbose": "Page Down"
+    },
+    {
+      "keyCode": 77,
+      "label": "End"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 22733,
+      "label": "Play",
+      "extraLabel": "Media",
+      "verbose": "Play / pause"
+    },
+    {
+      "keyCode": 22710,
+      "label": "Track-",
+      "extraLabel": "Media",
+      "verbose": "Prev. track"
+    },
+    {
+      "keyCode": 22709,
+      "label": "Track+",
+      "extraLabel": "Media",
+      "verbose": "Next track"
+    },
+    {
+      "keyCode": 22711,
+      "label": "Stop",
+      "extraLabel": "Media"
+    },
+    {
+      "keyCode": 68,
+      "label": "F11"
+    },
+    {
+      "keyCode": 24577,
+      "label": "#1",
+      "extraLabel": "Macro"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 41,
+      "label": "Esc"
+    },
+    {
+      "keyCode": 19682,
+      "label": "Mute",
+      "extraLabel": "Media"
+    },
+    {
+      "keyCode": 23785,
+      "label": "Vol+",
+      "extraLabel": "Media",
+      "verbose": "Volume up"
+    },
+    {
+      "keyCode": 23785,
+      "label": "Vol+",
+      "extraLabel": "Media",
+      "verbose": "Volume up"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
+    },
+    {
+      "keyCode": 17410,
+      "label": "2",
+      "extraLabel": "LockTo"
+    },
+    {
+      "keyCode": 17492,
+      "label": "0",
+      "extraLabel": "MoveTo"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 76,
+      "label": "Del"
+    },
+    {
+      "keyCode": 227,
+      "label": "LSuper",
+      "verbose": "Left Super"
+    },
+    {
+      "keyCode": 44,
+      "label": "Space"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 70,
+      "label": "PrnScr",
+      "verbose": "Print Screen"
+    },
+    {
+      "keyCode": 71,
+      "label": "ScrlLK",
+      "verbose": "Scroll Lock"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    }
+  ],
+  "palette": []
+}
