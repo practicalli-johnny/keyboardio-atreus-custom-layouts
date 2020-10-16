@@ -121,9 +121,9 @@
       "label": "B"
     },
     {
-      "keyCode": 51261,
+      "keyCode": 52029,
       "label": "Tab",
-      "extraLabel": "L#0/"
+      "extraLabel": "L#3/"
     },
     {
       "keyCode": 52282,
@@ -164,24 +164,24 @@
       "verbose": "Left Super"
     },
     {
+      "keyCode": 224,
+      "label": "LCtrl",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 51516,
+      "label": "Bksp",
+      "extraLabel": "L#1/"
+    },
+    {
       "keyCode": 225,
       "label": "LShift",
       "verbose": "Left Shift"
     },
     {
-      "keyCode": 42,
-      "label": "Bksp",
-      "verbose": "Backspace"
-    },
-    {
-      "keyCode": 51515,
-      "label": "Esc",
-      "extraLabel": "L#1/"
-    },
-    {
-      "keyCode": 228,
-      "label": "RCtrl",
-      "verbose": "Right Control"
+      "keyCode": 229,
+      "label": "RShift",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 51774,
@@ -189,9 +189,9 @@
       "extraLabel": "L#2/"
     },
     {
-      "keyCode": 229,
-      "label": "RShift",
-      "verbose": "Right Shift"
+      "keyCode": 228,
+      "label": "RCtrl",
+      "verbose": "Right Control"
     },
     {
       "keyCode": 49,
