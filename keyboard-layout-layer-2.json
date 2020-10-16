@@ -150,10 +150,10 @@
       "verbose": "Volume up"
     },
     {
-      "keyCode": 23785,
-      "label": "Vol+",
+      "keyCode": 23786,
+      "label": "Vol-",
       "extraLabel": "Media",
-      "verbose": "Volume up"
+      "verbose": "Volume down"
     },
     {
       "keyCode": 65535,
