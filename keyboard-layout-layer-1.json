@@ -61,10 +61,6 @@
       "extraLabel": ")"
     },
     {
-      "keyCode": 2086,
-      "label": "("
-    },
-    {
       "keyCode": 65535,
       "label": "",
       "verbose": "Transparent"
@@ -80,8 +76,13 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 2087,
-      "label": ")"
+      "keyCode": 9,
+      "label": "F"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 0,
@@ -110,34 +111,35 @@
       "label": "→"
     },
     {
+      "keyCode": 52,
+      "label": "'"
+    },
+    {
       "keyCode": 65535,
       "label": "",
       "verbose": "Transparent"
     },
     {
-      "keyCode": 47,
-      "label": "["
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 48,
-      "label": "]"
+      "keyCode": 6,
+      "label": "C"
     },
     {
-      "keyCode": 2080,
-      "label": "#"
+      "keyCode": 25,
+      "label": "V"
     },
     {
-      "keyCode": 2095,
-      "label": "{"
+      "keyCode": 5,
+      "label": "B"
     },
     {
-      "keyCode": 2096,
-      "label": "}"
-    },
-    {
-      "keyCode": 227,
-      "label": "LSuper",
-      "verbose": "Left Super"
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 40,
@@ -183,28 +185,28 @@
       "label": "Del"
     },
     {
-      "keyCode": 225,
-      "label": "LShift",
-      "verbose": "Left Shift"
-    },
-    {
       "keyCode": 65535,
       "label": "",
       "verbose": "Transparent"
     },
     {
-      "keyCode": 226,
-      "label": "LAlt",
-      "verbose": "Left Alt"
+      "keyCode": 227,
+      "label": "LSuper",
+      "verbose": "Left Super"
+    },
+    {
+      "keyCode": 229,
+      "label": "RShift",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 44,
       "label": "Space"
     },
     {
-      "keyCode": 229,
-      "label": "RShift",
-      "verbose": "Right Shift"
+      "keyCode": 230,
+      "label": "RAlt",
+      "verbose": "AltGr (Right Alt)"
     },
     {
       "keyCode": 55,
