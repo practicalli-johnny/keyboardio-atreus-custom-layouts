@@ -6,9 +6,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 26,
+      "label": "W"
+    },
+    {
+      "keyCode": 8,
+      "label": "E"
+    },
+    {
+      "keyCode": 21,
+      "label": "R"
     },
     {
       "keyCode": 65535,
@@ -66,9 +73,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 9,
+      "label": "F"
     },
     {
       "keyCode": 65535,
@@ -121,29 +127,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 6,
+      "label": "C"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 25,
+      "label": "V"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 5,
+      "label": "B"
     },
     {
       "keyCode": 65535,
@@ -196,9 +189,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 224,
+      "label": "LCtrl",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 227,
+      "label": "LSuper",
+      "verbose": "Left Super"
+    },
+    {
+      "keyCode": 225,
+      "label": "LShift",
+      "verbose": "Left Shift"
+    },
+    {
+      "keyCode": 229,
+      "label": "RShift",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 65535,
@@ -206,24 +214,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 228,
+      "label": "RCtrl",
+      "verbose": "Right Control"
     },
     {
       "keyCode": 65535,

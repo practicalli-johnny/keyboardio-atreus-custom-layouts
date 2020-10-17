@@ -34,7 +34,7 @@
   [[keyboardio-atreus-custom-layout-layer-3.png]]
 
 ** Layer 4
-   to be defined
+   Regolith desktop shortcuts
 
   [[keyboardio-atreus-custom-layout-layer-4.png]]
 
