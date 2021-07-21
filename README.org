@@ -1,10 +1,20 @@
-* Keyboard.io Atreus custom keyboard layout
+#+TITLE: Keyboard.io Atreus custom keyboard layout
+
   The [[https://shop.keyboard.io/pages/atreus][Atreus]] is a compact and highly portable mechanical keyboard from Keyboard.io that is fun to use.
 
   This repository contains 6 layers of keyboard layout, with 0 being the default layer.
 
   Layouts were defined with [[https://github.com/keyboardio/Chrysalis][Keyboard.io Chrysalis graphical configurator]]
 
+* Commonly used key bindings
+
+** Regolith Linux
+
+   Application menu - Layer1 + RShift + SPC
+   Switch window - Layer1 + RShift + number keys
+   Esc key - Layer 0 + left bottom corner key | Layer1 + top left thumb key
+
+* keyboard design
   - Layer 0: qwerty alphabetic keys with common symbols
   - Layer 1: numbers, arrow keys and parens
   - Layer 2: function keys, page up/down home end, media keys
